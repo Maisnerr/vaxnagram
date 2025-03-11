@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 595.28 841.89">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: url(#Nepojmenovaný_přechod_35);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        stroke: url(#Nepojmenovaný_přechod_35-5);
+      }
+
+      .cls-3 {
+        stroke: url(#Nepojmenovaný_přechod_35-3);
+      }
+
+      .cls-4 {
+        stroke: url(#Nepojmenovaný_přechod_35-7);
+      }
+
+      .cls-5 {
+        stroke: url(#Nepojmenovaný_přechod_35-4);
+      }
+
+      .cls-6 {
+        stroke: url(#Nepojmenovaný_přechod_35-6);
+      }
+
+      .cls-7 {
+        stroke: url(#Nepojmenovaný_přechod_35-2);
+      }
+    </style>
+    <radialGradient id="Nepojmenovaný_přechod_35" data-name="Nepojmenovaný přechod 35" cx="282.01" cy="335.73" fx="282.01" fy="335.73" r="70.18" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffed00"/>
+      <stop offset=".36" stop-color="#009bbf"/>
+      <stop offset=".72" stop-color="#883d8f"/>
+      <stop offset="1" stop-color="#aa1920"/>
+    </radialGradient>
+    <radialGradient id="Nepojmenovaný_přechod_35-2" data-name="Nepojmenovaný přechod 35" cx="254.08" cy="336" fx="254.08" fy="336" r="75.52" xlink:href="#Nepojmenovaný_přechod_35"/>
+    <radialGradient id="Nepojmenovaný_přechod_35-3" data-name="Nepojmenovaný přechod 35" cx="226.18" cy="336.23" fx="226.18" fy="336.23" r="60.65" xlink:href="#Nepojmenovaný_přechod_35"/>
+    <radialGradient id="Nepojmenovaný_přechod_35-4" data-name="Nepojmenovaný přechod 35" cx="186.9" cy="335.71" fx="186.9" fy="335.71" r="60.05" xlink:href="#Nepojmenovaný_přechod_35"/>
+    <radialGradient id="Nepojmenovaný_přechod_35-5" data-name="Nepojmenovaný přechod 35" cx="310.44" cy="336.35" fx="310.44" fy="336.35" r="75.52" xlink:href="#Nepojmenovaný_přechod_35"/>
+    <radialGradient id="Nepojmenovaný_přechod_35-6" data-name="Nepojmenovaný přechod 35" cx="378.19" cy="333.78" fx="378.19" fy="333.78" r="60.05" xlink:href="#Nepojmenovaný_přechod_35"/>
+    <radialGradient id="Nepojmenovaný_přechod_35-7" data-name="Nepojmenovaný přechod 35" cx="282.54" cy="327.98" fx="282.54" fy="327.98" r="167.65" xlink:href="#Nepojmenovaný_přechod_35"/>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.2, SVG Export Plug-In . SVG Version: 1.2.0 Build 154)  -->
+  <g>
+    <g id="Vrstva_1">
+      <g>
+        <line class="cls-1" x1="282.01" y1="434.94" x2="282.01" y2="236.52"/>
+        <polygon class="cls-7" points="281.97 435.22 281.97 236.8 226.18 250.49 226.18 421.97 281.97 435.22"/>
+        <path class="cls-3" d="M226.18,421.97v-171.47,171.47Z"/>
+        <polygon class="cls-5" points="147.62 386.55 147.62 285.89 226.18 265.03 226.18 406.44 147.62 386.55"/>
+        <polygon class="cls-2" points="282.54 435.58 282.54 237.15 338.33 250.85 338.33 422.33 282.54 435.58"/>
+        <polygon class="cls-6" points="417.47 384.62 417.47 283.96 338.91 263.09 338.91 404.5 417.47 384.62"/>
+      </g>
+      <rect class="cls-4" x="117.39" y="162.83" width="330.3" height="330.3" rx="69.38" ry="69.38"/>
+    </g>
+  </g>
+</svg>

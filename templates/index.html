@@ -1,0 +1,25 @@
+<!DOCTYPE html> 
+<html lang="cs">    
+    <head> 
+        <title>VaxnaGRAM │ Maisner</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+        <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+        <meta charset="UTF-8"> 
+    </head> 
+        <body>
+            <h1>Upload an Image</h1>
+            <input type="text" id="first">
+            <input type="file" id="third">
+            <input type="button" value="Combine" onclick="uploadImage()">
+            <br><br><br>
+            <p id="title"></p>
+            <a id="aResult" target="_blank"><img id="result" alt="" src="{{ url_for('static', filename='uploads/logo.png') }}"></a>
+            <br><br>
+            <h1>Get Random Post</h1>
+            <button onclick="loadRandom()">Get Post</button>
+            <p id="titlepost"></p>
+            <a id="aResultpost" target="_blank"><img id="resultpost" alt="" src="{{ url_for('static', filename='uploads/logo.png') }}"></a>
+
+            <script src="{{ url_for('static', filename='Script.js') }}"></script>
+        </body> 
+</html>
